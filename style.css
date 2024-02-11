@@ -1,0 +1,25 @@
+body{
+    font-size: 1rem;
+    font-family: "Proxima Nova","Arial","sans-serif";
+}
+.top-menu{
+    text-align: right;
+}
+.top-menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.top-menu ul li{
+    display: inline-block;
+    padding: 20px;
+
+}
+.top-menu ul li a{
+    color: #243c4a;
+    text-decoration: none;
+    font-weight: 700;
+}
+.top-menu ul li:hover a{
+    color: #3A9DA2;
+}
